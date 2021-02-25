@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Image
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5537565062660023377
+  m_GuidHigh: 15872966305489190558
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4989603281484082472
+      m_GuidHigh: 16064145178505999506
+    m_SerializedTextureGuid:
+      m_GuidLow: 8841946419657873736
+      m_GuidHigh: 15679105159583310011
+    m_Size: {x: 0.2, y: 0.20524515}
+    m_SpecifySize: 1
+    m_Name: bike_scan
+    m_Texture: {fileID: 2800000, guid: 0abe9948e76c7ab4bb20f538125f97d9, type: 3}
